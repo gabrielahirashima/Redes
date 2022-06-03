@@ -1,0 +1,3 @@
+Trabalho da disciplina de redes - Teste de conexão entre dois endereços
+------------------------------------------------------------------------------
+Escrito em python e utilizando sockets, o servidor e o cliente realizam testes de conexão tanto em UDP quanto em TCP
