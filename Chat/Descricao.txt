@@ -1,0 +1,5 @@
+Trabalho da disciplina de Redes
+--------------------------------------------------------
+Escrito em python e utilizando sockets, o programa procura estabelecer uma conexão entre dois endereços para realizar a troca de mensagens. 
+
+
